@@ -4,6 +4,7 @@
 **amankumar4real/amankumar4real** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+Aspiring Full Stack Web Developer. I am a full time coder moulded and shaped by Masai School. With time coding has become a huge part of my life and I am determined to push relevant codes on github everyday. I love to take on new projects and learn new things as it satisfies me.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

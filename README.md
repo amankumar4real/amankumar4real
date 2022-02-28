@@ -9,7 +9,7 @@ With time coding has become a huge part of my life and I am determined to push r
 
 <h3>Things I code with</h3>
 <p>
-  <img alt="Node" src="https://img.shields.io/badge/-Node-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Node" src="https://img.shields.io/badge/-Node-45b8d8?style=flat-square&logo=nodejs&logoColor=yelow" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-43853d?style=flat-square&logo=javascript&logoColor=white" />

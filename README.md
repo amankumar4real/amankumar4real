@@ -4,17 +4,19 @@
 With time coding has become a huge part of my life and I am determined to push relevant codes on github everyday. I love to take on new projects and learn new things as it satisfies me.</p>
 
 <div>
-<span>🔭 <a href="https://myportfolio.amankumar.co/">My Portfolio</a></span>
+<!-- <span>🔭 <a href="https://myportfolio.amankumar.co/">My Portfolio</a></span> -->
 </div>
 
 <h3>Things I code with</h3>
 <p>
-  <img alt="Node" src="https://img.shields.io/badge/-Node-45b8d8?style=flat-square&logo=nodejs&logoColor=yelow" />
+  <img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-43853d?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-13aa52?style=flat-square&logo=flask&logoColor=white" />
   <img alt="mysql" src="https://img.shields.io/badge/-mysql-F7B93E?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="mongoDb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="python" src="https://img.shields.io/badge/-python-F9A03C?style=flat-square&logo=python&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/-css-ea2845?style=flat-square&logo=css&logoColor=white" />
